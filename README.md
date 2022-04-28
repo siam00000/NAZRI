@@ -1,6 +1,6 @@
 # NAZRI
 
-```python```
+```python
 
 
 pkg update && pkg upgrade
